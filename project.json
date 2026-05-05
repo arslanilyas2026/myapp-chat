@@ -1,0 +1,27 @@
+{
+  "overview": "A privacy-focused, mobile-first WhatsApp-clone chat application for 3-4 users. Features phone OTP login via Firebase Auth (placeholder), disappearing messages with type-specific deletion rules, tap-to-translate with multi-API fallback, strict admin control over user access, and full multi-language UI support (English, Spanish, Portuguese). Pre-configured for Capacitor APK export.",
+  "features": [
+    "WhatsApp-style UI with green theme and chat bubbles",
+    "Firebase Auth phone OTP login (placeholder credentials)",
+    "Conversation list and private chat views",
+    "Disappearing messages: text (2min), images (view-once), audio/video (after play)",
+    "Tap-to-translate with MyMemory → LibreTranslate → DeepL fallback",
+    "Full i18next localization: English, Spanish, Portuguese",
+    "Language switcher in Settings",
+    "Admin-controlled user access (no self-registration)",
+    "Capacitor pre-configured for APK export",
+    "Firestore setup with TTL/auto-delete placeholders"
+  ],
+  "category": "communication",
+  "tags": [
+    "chat",
+    "whatsapp-clone",
+    "mobile-first",
+    "firebase",
+    "capacitor",
+    "i18n",
+    "disappearing-messages",
+    "translation"
+  ],
+  "last_updated": "2026-05-05T00:50:01.489Z"
+}

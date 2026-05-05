@@ -1,0 +1,90 @@
+{
+  "auth": {
+    "title": "MyApp",
+    "subtitle": "Mensajería simple y privada para tu grupo",
+    "phoneLabel": "Número de teléfono",
+    "phonePlaceholder": "+1 (555) 000-0000",
+    "sendOtp": "Enviar código",
+    "otpLabel": "Ingresa el código",
+    "otpPlaceholder": "000000",
+    "verifyOtp": "Verificar",
+    "sendingOtp": "Enviando...",
+    "verifying": "Verificando...",
+    "backToPhone": "← Volver",
+    "countryCode": "+1",
+    "resendOtp": "Reenviar código",
+    "termsNotice": "Al tocar Enviar código, aceptas nuestros Términos de Servicio.",
+    "otpSent": "Ingresa el código de 6 dígitos enviado a {{phone}}",
+    "errors": {
+      "invalidPhone": "Por favor, ingresa un número válido en formato +1 (555) 000-0000",
+      "otpFailed": "Código incorrecto — por favor revisa e intenta de nuevo",
+      "otpExpired": "Código expirado — por favor solicita uno nuevo",
+      "notAllowed": "Este número no está autorizado. Contacta al administrador."
+    }
+  },
+  "conversations": {
+    "title": "MyApp",
+    "noConversations": "Sin conversaciones aún",
+    "noConversationsHint": "Tus chats aparecerán aquí cuando alguien te escriba",
+    "lastSeen": "Visto por última vez {{time}}",
+    "online": "en línea",
+    "search": "Buscar...",
+    "voiceMessage": "Mensaje de voz",
+    "videoMessage": "Video",
+    "newChat": "Nueva conversación"
+  },
+  "chat": {
+    "typeMessage": "Escribe un mensaje",
+    "send": "Enviar",
+    "tapToView": "Toca para ver",
+    "tapToListen": "Toca para escuchar",
+    "tapToWatch": "Toca para ver el video",
+    "messageExpired": "Este mensaje ha expirado",
+    "translate": "Traducir",
+    "translating": "Traduciendo...",
+    "translationFailed": "Falló la traducción",
+    "showOriginal": "Ver original",
+    "delivered": "Entregado",
+    "read": "Leído",
+    "disappearsIn": "Desaparece en {{time}}",
+    "today": "Hoy",
+    "yesterday": "Ayer",
+    "attachFile": "Adjuntar archivo",
+    "recordAudio": "Grabar audio"
+  },
+  "settings": {
+    "title": "Configuración",
+    "language": "Idioma",
+    "languageTitle": "Idioma de la aplicación",
+    "profile": "Perfil",
+    "notifications": "Notificaciones",
+    "privacy": "Privacidad",
+    "security": "Seguridad",
+    "changeNumber": "Cambiar número",
+    "messageNotifications": "Notificaciones de mensajes",
+    "about": "Acerca de",
+    "appVersion": "Versión de la app",
+    "logout": "Cerrar sesión",
+    "version": "Versión",
+    "account": "Cuenta",
+    "general": "General",
+    "changePhoto": "Cambiar foto",
+    "languages": {
+      "en": "English",
+      "es": "Español",
+      "pt": "Português"
+    }
+  },
+  "common": {
+    "loading": "Cargando...",
+    "error": "Algo salió mal",
+    "retry": "Intentar de nuevo",
+    "cancel": "Cancelar",
+    "ok": "Aceptar",
+    "back": "Volver",
+    "save": "Guardar",
+    "edit": "Editar",
+    "delete": "Eliminar",
+    "confirm": "Confirmar"
+  }
+}

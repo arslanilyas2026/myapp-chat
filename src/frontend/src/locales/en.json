@@ -1,0 +1,90 @@
+{
+  "auth": {
+    "title": "MyApp",
+    "subtitle": "Simple, private messaging for your group",
+    "phoneLabel": "Phone number",
+    "phonePlaceholder": "+1 (555) 000-0000",
+    "sendOtp": "Send OTP",
+    "otpLabel": "Enter OTP",
+    "otpPlaceholder": "000000",
+    "verifyOtp": "Verify",
+    "sendingOtp": "Sending...",
+    "verifying": "Verifying...",
+    "backToPhone": "← Back",
+    "countryCode": "+1",
+    "resendOtp": "Resend OTP",
+    "termsNotice": "By tapping Send OTP, you agree to our Terms of Service.",
+    "otpSent": "Enter the 6-digit code sent to {{phone}}",
+    "errors": {
+      "invalidPhone": "Please enter a valid phone number in +1 (555) 000-0000 format",
+      "otpFailed": "Invalid code — please check and try again",
+      "otpExpired": "Code expired — please request a new one",
+      "notAllowed": "This number is not authorized. Contact the admin."
+    }
+  },
+  "conversations": {
+    "title": "MyApp",
+    "noConversations": "No conversations yet",
+    "noConversationsHint": "Your chats will appear here once someone messages you",
+    "lastSeen": "Last seen {{time}}",
+    "online": "online",
+    "search": "Search...",
+    "voiceMessage": "Voice message",
+    "videoMessage": "Video",
+    "newChat": "New chat"
+  },
+  "chat": {
+    "typeMessage": "Type a message",
+    "send": "Send",
+    "tapToView": "Tap to view",
+    "tapToListen": "Tap to listen",
+    "tapToWatch": "Tap to watch",
+    "messageExpired": "This message has expired",
+    "translate": "Translate",
+    "translating": "Translating...",
+    "translationFailed": "Translation failed",
+    "showOriginal": "Show original",
+    "delivered": "Delivered",
+    "read": "Read",
+    "disappearsIn": "Disappears in {{time}}",
+    "today": "Today",
+    "yesterday": "Yesterday",
+    "attachFile": "Attach file",
+    "recordAudio": "Record audio"
+  },
+  "settings": {
+    "title": "Settings",
+    "language": "Language",
+    "languageTitle": "App Language",
+    "profile": "Profile",
+    "notifications": "Notifications",
+    "privacy": "Privacy",
+    "security": "Security",
+    "changeNumber": "Change number",
+    "messageNotifications": "Message notifications",
+    "about": "About",
+    "appVersion": "App version",
+    "logout": "Log out",
+    "version": "Version",
+    "account": "Account",
+    "general": "General",
+    "changePhoto": "Change photo",
+    "languages": {
+      "en": "English",
+      "es": "Spanish (Español)",
+      "pt": "Portuguese (Português)"
+    }
+  },
+  "common": {
+    "loading": "Loading...",
+    "error": "Something went wrong",
+    "retry": "Try again",
+    "cancel": "Cancel",
+    "ok": "OK",
+    "back": "Back",
+    "save": "Save",
+    "edit": "Edit",
+    "delete": "Delete",
+    "confirm": "Confirm"
+  }
+}

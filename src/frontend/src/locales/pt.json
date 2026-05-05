@@ -1,0 +1,90 @@
+{
+  "auth": {
+    "title": "MyApp",
+    "subtitle": "Mensagens simples e privadas para o seu grupo",
+    "phoneLabel": "Número de telefone",
+    "phonePlaceholder": "+55 (11) 90000-0000",
+    "sendOtp": "Enviar código",
+    "otpLabel": "Insira o código",
+    "otpPlaceholder": "000000",
+    "verifyOtp": "Verificar",
+    "sendingOtp": "Enviando...",
+    "verifying": "Verificando...",
+    "backToPhone": "← Voltar",
+    "countryCode": "+1",
+    "resendOtp": "Reenviar código",
+    "termsNotice": "Ao tocar em Enviar código, você concorda com nossos Termos de Serviço.",
+    "otpSent": "Insira o código de 6 dígitos enviado para {{phone}}",
+    "errors": {
+      "invalidPhone": "Por favor, insira um número válido no formato +55 (11) 90000-0000",
+      "otpFailed": "Código incorreto — verifique e tente novamente",
+      "otpExpired": "Código expirado — solicite um novo",
+      "notAllowed": "Este número não está autorizado. Entre em contato com o administrador."
+    }
+  },
+  "conversations": {
+    "title": "MyApp",
+    "noConversations": "Sem conversas ainda",
+    "noConversationsHint": "Suas conversas aparecerão aqui quando alguém lhe enviar uma mensagem",
+    "lastSeen": "Visto por último {{time}}",
+    "online": "online",
+    "search": "Buscar...",
+    "voiceMessage": "Mensagem de voz",
+    "videoMessage": "Vídeo",
+    "newChat": "Nova conversa"
+  },
+  "chat": {
+    "typeMessage": "Digite uma mensagem",
+    "send": "Enviar",
+    "tapToView": "Toque para ver",
+    "tapToListen": "Toque para ouvir",
+    "tapToWatch": "Toque para assistir",
+    "messageExpired": "Esta mensagem expirou",
+    "translate": "Traduzir",
+    "translating": "Traduzindo...",
+    "translationFailed": "Falha na tradução",
+    "showOriginal": "Ver original",
+    "delivered": "Entregue",
+    "read": "Lido",
+    "disappearsIn": "Desaparece em {{time}}",
+    "today": "Hoje",
+    "yesterday": "Ontem",
+    "attachFile": "Anexar arquivo",
+    "recordAudio": "Gravar áudio"
+  },
+  "settings": {
+    "title": "Configurações",
+    "language": "Idioma",
+    "languageTitle": "Idioma do aplicativo",
+    "profile": "Perfil",
+    "notifications": "Notificações",
+    "privacy": "Privacidade",
+    "security": "Segurança",
+    "changeNumber": "Alterar número",
+    "messageNotifications": "Notificações de mensagens",
+    "about": "Sobre",
+    "appVersion": "Versão do app",
+    "logout": "Sair",
+    "version": "Versão",
+    "account": "Conta",
+    "general": "Geral",
+    "changePhoto": "Alterar foto",
+    "languages": {
+      "en": "English",
+      "es": "Español",
+      "pt": "Português"
+    }
+  },
+  "common": {
+    "loading": "Carregando...",
+    "error": "Algo deu errado",
+    "retry": "Tentar novamente",
+    "cancel": "Cancelar",
+    "ok": "OK",
+    "back": "Voltar",
+    "save": "Salvar",
+    "edit": "Editar",
+    "delete": "Excluir",
+    "confirm": "Confirmar"
+  }
+}
